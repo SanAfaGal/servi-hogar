@@ -8,7 +8,7 @@
 
 ServiHogar is a professional services marketplace that connects skilled workers with homeowners in the Medellín metropolitan area. The platform enables service providers to create profiles, showcase their expertise, and connect with potential clients.
 
-![ServiHogar Preview](https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![ServiHogar Preview](https://github.com/SanAfaGal/servi-hogar/blob/main/public/preview.png)
 
 ## Features
 
@@ -194,27 +194,3 @@ For support, please:
 - Open an issue on GitHub
 - Join our [Discord community](https://discord.gg/servihogar)
 - Email us at support@servihogar.co
-
-## Acknowledgments
-
-- [Supabase](https://supabase.io/) for the backend infrastructure
-- [Tailwind CSS](https://tailwindcss.com/) for the styling system
-- [Lucide Icons](https://lucide.dev/) for the icon system
-- All our contributors and community members
-
-## Roadmap
-
-- [ ] Mobile application
-- [ ] Payment integration
-- [ ] Real-time chat
-- [ ] Service scheduling
-- [ ] Analytics dashboard
-- [ ] Multi-language support
-
-## Screenshots
-
-![Worker Profile](https://images.pexels.com/photos/3760069/pexels-photo-3760069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Worker profile page showing services and reviews*
-
-![Search Interface](https://images.pexels.com/photos/3760071/pexels-photo-3760071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-*Advanced search interface with filters*

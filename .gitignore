@@ -1,0 +1,95 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.*
+!.env.example
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directories
+node_modules/
+vendor/
+bower_components/
+
+# Build outputs
+dist/
+build/
+out/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+logs/
+*.dump
+
+# Security and credentials
+*.pem
+*.key
+*.cert
+*.crt
+*.csr
+*.p12
+*.pfx
+credentials.json
+*_rsa
+*_dsa
+*_ed25519
+*_ecdsa
+aws.json
+gcp-key.json
+firebase-admin.json
+
+# Cache and temporary files
+.cache/
+.tmp/
+temp/
+tmp/
+.DS_Store
+Thumbs.db
+
+# Package manager files
+yarn-error.log
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# Testing and coverage
+coverage/
+.nyc_output/
+.coverage
+htmlcov/
+
+# Personal and project-specific files
+TODO.md
+NOTES.md
+*.private.*
+*secret*
+*confidential*
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# System files
+.directory
+.Trash-*
+$RECYCLE.BIN/
+System Volume Information/
